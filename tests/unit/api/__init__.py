@@ -1,1 +1,0 @@
-# Tests unitaires pour l'API FastAPI
